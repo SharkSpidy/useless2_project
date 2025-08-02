@@ -45,10 +45,6 @@ pip install cvzone
 # Run
 python main.py
 
-
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![Screenshot1](https://github.com/SharkSpidy/useless2_project/blob/main/Screenshot%202025-08-02%20221343.png)
 
