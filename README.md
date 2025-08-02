@@ -58,7 +58,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Video]()
+[Video](https://drive.google.com/file/d/1oaON6bSgXJy6kZVDIOBPvqcS-rQ9r5lP/view?usp=sharing)
 
 ---
 Made with ❤️ by Joe at TinkerHub Useless Projects 
