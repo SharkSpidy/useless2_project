@@ -1,47 +1,50 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
+# 👻 Ghost Puzzle  
+### A Useless Project by Team Code Croczzz 🎮
 
-# [Project Name] 🎯
+---
 
+## 🚀 Basic Details
 
-## Basic Details
-### Team Name: [Name]
+### 🏷️ Team Name:
+**Code Croczzz**
 
+### 👥 Team Members:
+- **Team Lead:** Joseph Shibu – Sahrdaya College of Engineering & Technology  
+- *(Add more members if needed)*
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+### 💡 Project Description:
+A fun and interactive hand-controlled puzzle game where you solve a jigsaw puzzle using your bare fingers and camera — with invisible pieces! Why? Because it's hauntingly useless!
 
-### Project Description
-[2-3 lines about what your project does]
+---
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+## 🤯 The Problem (That Doesn’t Exist)
+Ever had the urge to solve a jigsaw puzzle with your hands *virtually*, where you can't see the pieces but know they exist? No? Exactly.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+---
 
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+## 🤷 The Solution (That Nobody Asked For)
+We made a 2x2 ghost puzzle where pieces are invisible (but outlined), and once placed correctly — they magically appear! Controlled by your fingers via your webcam. Useless, but satisfying.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+---
 
-### Implementation
-For Software:
-# Installation
-[commands]
+## 🔧 Technical Details
+
+### 💻 Software Stack:
+- **Languages:** Python  
+- **Libraries:** OpenCV, cvzone, NumPy  
+- **Tools:** Webcam, Virtual Puzzle Generator (aka random image selector)
+
+### 💾 Installation
+pip install opencv-python
+pip install numpy
+pip install cvzone
+
 
 # Run
-[commands]
+python main.py
+
 
 ### Project Documentation
 For Software:
